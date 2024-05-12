@@ -367,6 +367,8 @@
 "Assets/Cainos/Pixel Art Top Down - Basic/Script/PropsAltar.cs"
 "Assets/Cainos/Pixel Art Top Down - Basic/Script/SpriteColorAnimation.cs"
 "Assets/Cainos/Pixel Art Top Down - Basic/Script/TopDownCharacterController.cs"
+"Assets/Scripts/LoginPage.cs"
+"Assets/Scripts/MainMenu.cs"
 -langversion:9.0
 /deterministic
 /optimize+
